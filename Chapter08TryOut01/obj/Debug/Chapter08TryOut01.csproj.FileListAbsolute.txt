@@ -1,0 +1,15 @@
+D:\IBT\C# Windows Form\Chapter08TryOut01\bin\Debug\Chapter08TryOut01.exe.config
+D:\IBT\C# Windows Form\Chapter08TryOut01\bin\Debug\Chapter08TryOut01.exe
+D:\IBT\C# Windows Form\Chapter08TryOut01\bin\Debug\Chapter08TryOut01.pdb
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.csprojAssemblyReference.cache
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\MainWindow.g.cs
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\App.g.cs
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01_MarkupCompile.cache
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01_MarkupCompile.lref
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\MainWindow.baml
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.g.resources
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.Properties.Resources.resources
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.csproj.GenerateResource.cache
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.exe
+D:\IBT\C# Windows Form\Chapter08TryOut01\obj\Debug\Chapter08TryOut01.pdb
